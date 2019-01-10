@@ -1,2 +1,4 @@
 # Chocana-s
-c'est un mélange de choc
+
+* le choco c'est bon
+* Banana force
